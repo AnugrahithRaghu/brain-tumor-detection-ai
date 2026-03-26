@@ -92,7 +92,7 @@ else:
     st.write("Train model to generate graph")
 
 st.markdown("---")
-st.markdown("⚠️ This is for educational purposes only")import streamlit as st
+st.markdown("⚠️ This is for educational purposes only")
 import torch
 import torch.nn as nn
 from PIL import Image
